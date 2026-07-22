@@ -1,5 +1,7 @@
 # Lab 3: Concurrent Server Using `fork()`
 
+**Author:** Aastha
+
 ## Objective
 
 Create a TCP server that forks a child process to handle a client request.
