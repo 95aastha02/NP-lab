@@ -1,5 +1,7 @@
 # Lab 6: Socket I/O Models
 
+**Author:** Aastha
+
 ## Objective
 
 Compare blocking, non-blocking, multiplexed, and signal-driven I/O behavior.
