@@ -1,5 +1,7 @@
 # Lab 1: TCP Client–Server Communication
 
+**Author:** Aastha
+
 ## Objective
 
 Implement a connection-oriented TCP client and server using BSD sockets.
