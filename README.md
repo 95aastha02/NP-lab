@@ -1,5 +1,7 @@
 # Lab 4: I/O Multiplexing with `select()`
 
+**Author:** Aastha
+
 ## Objective
 
 Use `select()` to wait for socket readiness before accepting and reading data.
