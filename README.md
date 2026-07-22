@@ -1,5 +1,7 @@
 # Lab 5: Multithreaded Client–Server Communication
 
+**Author:** Aastha
+
 ## Objective
 
 Handle a TCP client in a POSIX worker thread.
