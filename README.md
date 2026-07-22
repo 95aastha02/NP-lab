@@ -1,5 +1,7 @@
 # Lab 7: Interprocess Communication Using Signals
 
+**Author:** Aastha
+
 ## Objective
 
 Exchange request and acknowledgement signals between separate client and server processes.
